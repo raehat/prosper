@@ -126,6 +126,27 @@
   font-size: 20px;
 }
 
+#hello {
+  font-size: 30px;
+  color: black;
+  margin-left: 30px;
+  margin-top: 180px;
+  animation: fadeIn 3s;
+}
+
+#credits {
+  margin-left: 30px;
+  margin-top: 100px;
+}
+
+#transf {
+  font-size: 30px;
+  color: black;
+  margin-left: 30px;
+  margin-top: 30px;
+  animation: fadeIn 3s;
+}
+
 @media (min-width:0px) and (max-width:1200px) {
   #home-page-img {
     display: none;

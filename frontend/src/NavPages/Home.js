@@ -24,7 +24,7 @@ const Home = () => {
             <div id="home1">
                 <div id="home2">
                     <div id="left-box">
-                        World's first decentralized Hospital Management System built on Stacks Blockchain
+                        <div>Transforming Healthcare, One Block at a Time. </div>
                     </div>
                     {!userSession.isUserSignedIn() &&
                         <div id='please-connect-element' className='center-when-min'>
