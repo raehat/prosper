@@ -4,6 +4,8 @@
 ## Inspiration
 Healthcare management is a crucial part of our society. When it comes to healthcare, it becomes really important for the users to know that their data is in safe hands and it is not accessed by any other third parties. Also the doctors have to make sure that they are getting paid on time. Compromises can't be made when it comes to something so crucial. Hence, it becomes obvious for everyone to think that a system like healthcare should be tamperproof, trustless and democratic.
 
+![image](https://user-images.githubusercontent.com/77321971/223673933-8fdab106-e4eb-45fc-b988-7be4c78f57d2.png)
+
 ## What it does
 My project aims to make healthcare system trustless. I have implemented the healthcare system on stacks blockchain using clarity programming language with the help of smart contracts. This healthcare system has all basic functionalities of a traditional healthcare system, like adding patient data, adding data about doctors, assigning doctors to patients, treating patients, generating bills, paying bills etc.
 All of these functionalities happen over blockchain which basically means that users don't have to trust a single entity with their data and their data won't be compromised. Doctors can also make sure they are paid on time because bills are also stored on blockchain. 
