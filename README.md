@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/77321971/223673651-070a6941-1ccb-4ec8-a5cd-70b72744d67f.png)
+
+
 ## Inspiration
 Healthcare management is a crucial part of our society. When it comes to healthcare, it becomes really important for the users to know that their data is in safe hands and it is not accessed by any other third parties. Also the doctors have to make sure that they are getting paid on time. Compromises can't be made when it comes to something so crucial. Hence, it becomes obvious for everyone to think that a system like healthcare should be tamperproof, trustless and democratic.
 
