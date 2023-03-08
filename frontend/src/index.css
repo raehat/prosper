@@ -1,0 +1,169 @@
+#left-box {
+  margin-left: 100px;
+  margin-right: 200px;
+  margin-top: 200px;
+  font-size: 40px;
+  animation: fadeIn 3s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+#home1 {
+  display: flex;
+}
+
+#home-page-img {
+  width: 30%;
+  height: 30%;
+  margin-top: 120px;
+  margin-right: 150px;
+  animation: fadeIn 3s;
+}
+
+#footer {
+  text-align: center;
+  margin-top: 150px;
+  margin-bottom: 10px;
+}
+
+#button-get-started {
+  background-color: black;
+  /* Green */
+  border: none;
+  color: white;
+  padding: 15px 90px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 50px;
+  margin-left: 100px;
+  border-radius: 10px;
+
+}
+
+#please-connect-element {
+  margin-left: 100px;
+  margin-right:  200px;
+  margin-top: 50px;
+  font-size: 20px;
+  animation: fadeIn 3s;
+}
+
+#get-started {
+  display: flex;
+}
+
+#get-started-card-sizing {
+  width: 30%;
+  height: 50%;
+}
+
+#get-started-card-sizing-2 {
+  width: 50%;
+  height: 50%;
+}
+
+#gs-card-1 {
+  animation: fadeIn 3s;
+}
+
+#gs-card-2 {
+  animation: fadeIn 3s;
+}
+
+#patient-form {
+  margin : 0px 40px;
+}
+
+#please-fill {
+  margin-left: 40px;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+#add-patient-heading {
+  margin-top: 50px;
+  margin-left: 40px;
+  font-size: 30px;
+}
+
+#add-patient-to-user {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 20px;
+}
+
+#patient-page-heading {
+  margin-top: 30px;
+  margin-left: 30px;
+  font-size: 25px;
+}
+
+#lod-heading {
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+#doctor-assigned-card {
+  margin-left: 30px;
+  margin-right: 30px;
+  margin-top: 30px;
+}
+
+#doctor-page-heading {
+  margin-left: 30px;
+  margin-top: 30px;
+  font-size: 20px;
+}
+
+@media (min-width:0px) and (max-width:1200px) {
+  #home-page-img {
+    display: none;
+    margin: 0 auto;
+    text-align: ce;
+  }
+
+  #left-box {
+    font-size: 30px;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+    text-align: center;
+    animation: fadeIn 3s;
+  }
+
+  #button-get-started {
+    background-color: black;
+    /* Green */
+    border: none;
+    color: white;
+    padding: 15px 90px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  #please-connect-element {
+    display: table;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+}
